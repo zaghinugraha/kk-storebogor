@@ -1,4 +1,6 @@
 import Image from "next/image";
+import Navbar from "@/app/components/navbar";
+import {Nabla} from "next/dist/compiled/@next/font/dist/google";
 
 export default function Home() {
   return (
